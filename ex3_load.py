@@ -25,7 +25,14 @@ class_names = ['Cats', 'Dogs']
 
 # test_image = image.load_img('cat2.jpg', target_size=(64, 64))
 # test_image = image.load_img('cat.jpg', target_size=(64, 64))
-test_image = image.load_img('cat3.jpg', target_size=(64, 64))
+# test_image = image.load_img('cat3.jpg', target_size=(64, 64))
+# test_image = image.load_img('cat4.jpg', target_size=(64, 64))
+# test_image = image.load_img('cat5.jpg', target_size=(64, 64))
+# test_image = image.load_img('cat6.jpg', target_size=(64, 64))
+# test_image = image.load_img('cat7.jpeg', target_size=(64, 64))
+test_image = image.load_img('cat8.jpg', target_size=(64, 64))
+
+# test_image = image.load_img('dog3.jpg', target_size=(64, 64))
 # test_image = image.load_img('dog2.jpg', target_size=(64, 64))
 # test_image = image.load_img('dog.jpg', target_size=(64, 64))
 # test_image = image.load_img(
